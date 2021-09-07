@@ -5,6 +5,9 @@
 
 .logo {
     font-family: 'Montserrat', sans-serif;
+/*Circular Std is a paid for font,
+using Montserrat instead since it is a free version
+most similar to Circular Std*/
     font-style: normal;
     font-weight: bold;
     font-size: 30px;
@@ -61,6 +64,8 @@ a {
     line-height: 24px;
     letter-spacing: 00.02em;
     word-spacing: 38px;
+
+    Kept these to show how I had originally tried to style it
 } */
 
 .member {
