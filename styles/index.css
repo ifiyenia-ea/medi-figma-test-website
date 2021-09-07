@@ -1,0 +1,136 @@
+
+.logo, .logo-dot, .menu, .member {
+    display: inline-block;
+}
+
+.logo {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 48px;
+/* or 48px */
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+    margin-top: 37px;
+    margin-left: 80px;
+}
+
+.logo-dot {
+    color: #33A2E0;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+li {
+    display: inline-block;
+}
+
+/* li, a {
+    display: inline;
+} */
+
+.menu {
+    margin-top: 48px;
+    margin-left: 97px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 24px;
+    letter-spacing: 00.02em;
+    word-spacing: 38px;
+}
+
+.member {
+    margin-top: 8px;
+    margin-left: 752px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 24px;
+    letter-spacing: 00.02em;
+}
+
+.member-btn {
+    width: 120px;
+    height: 60px;
+    background-color: #33A2E0;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 00.02em;
+    color: #FFFFFF;
+    margin-top:50px;
+    margin-left: 40px;
+    border: none;
+    border-radius: 6px;
+    }
+
+
+.main-title {
+    max-width: 495px;
+    width: 100%;
+    font-family: 'Ramaraja', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-top: 208px;
+    margin-left: 200px;
+}
+
+.main-info {
+    max-width: 584px;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    line-height: 32px;
+    margin-top: 10px;
+    margin-left: 200px;
+    letter-spacing: 0.02em;
+    color:#9A9A9A 
+}
+
+.main-btn {
+    width: 152px;
+    height: 64px;
+    background-color: #33A2E0;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 00.02em;
+    color: #FFFFFF;
+    margin-top:50px;
+    margin-left: 200px;
+    border: none;
+    border-radius: 6px;
+}
+
+.meditate-img {
+    margin-top: 221px;
+    width: 796px;
+    height: 543px; 
+
+}
+
+section {
+    display: inline-block;
+}
+
