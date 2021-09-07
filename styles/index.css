@@ -32,11 +32,26 @@ li {
     display: inline-block;
 }
 
+a {
+    text-decoration: none;
+    text-align: center;
+    text-align: top;
+    margin-top: 48px;
+    margin-left: 97px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 24px;
+    letter-spacing: 00.02em;
+    color: #1B0A42;
+}
+
 /* li, a {
     display: inline;
 } */
 
-.menu {
+/* .menu {
     margin-top: 48px;
     margin-left: 97px;
     font-family: 'Roboto', sans-serif;
@@ -46,7 +61,7 @@ li {
     line-height: 24px;
     letter-spacing: 00.02em;
     word-spacing: 38px;
-}
+} */
 
 .member {
     margin-top: 8px;
@@ -126,7 +141,7 @@ li {
 .meditate-img {
     margin-top: 221px;
     width: 796px;
-    height: 543px; 
+    height: 543px;
 
 }
 
